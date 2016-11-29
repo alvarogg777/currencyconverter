@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_1e19a5b5390272d27d225a84a9b9f0168762d52e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_920603b8b4730d6d57eecbf82f1c8b3a05476769/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_09b0ccb8f00fc6099c32c1aa291be3caab455874/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_ff3fd951ee882b377afa852dd96f3ba3fb887a43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_c9e4fb2695ab4e88394b2c89fd1179a80c28f52e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/2.2.0-rc2/6fd74ef202cfb785db12a652e153ea003123c36b/baseLibrary-2.2.0-rc2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6fd74ef202cfb785db12a652e153ea003123c36b">
+        <dex dex="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/baseLibrary-2.2.0-rc2_2d6a6e6a06bb3d32a761b547b75bda690a18c925/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.0_dc228fa238e418dd91890cf644a649fdc063c68a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/exploded-aar/com.github.GrenderG/Prefs/1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0492f89ef6b9760e6db56a8a644c35fcf419854d">
+        <dex dex="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.GrenderG-Prefs-1.1_1368aefa85462a9aa684c484a4eff4d007a65584/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0082079acc150383a58384c83ed3c06f21dbca4a">
+        <dex dex="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_48ae69e1a9f7ad1d2ef8cda1377f56c03e28cd40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3940ec18e515ce67e959fea8dcd9dc0935ca41f8">
+        <dex dex="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3bee8191cb411685a1e2f2af3964132cb36b26df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/exploded-aar/com.android.databinding/adapters/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.databinding-adapters-1.2.1_18358a7a3b1bcc82a0f06e5e3b996caecb28c802/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_d8886de6bcbad28e67664b4e2dc5dd745314f2e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.0_e7f444ae1b3e7edb6c7ef4b05e6bfeb2e2101fe1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_0c1e79962de2c58c17a57a86c8f3ba5fed51dd2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_1838566edfaee4eb4d2ef9c5fc22de2a14d753b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_3d94b5914e0521b6ff4d7d97a4b17d823226edbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_715b0b83842b369814b8c9398a676a4312e964d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-8.4.0_e92b2a74a2c7eb08f1b85de2c5a04e3cbbd8815f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_62f1b1b094dc33c9e412c9a3713cc48f7e1495ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_77ba562403859c47d6d2a9c16e7173ebe0c9af27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/exploded-aar/com.android.databinding/library/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.databinding-library-1.2.1_f046e9f2b99784fec7b9af5690c97910a722d437/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_20f90dc42841708aa2419dfb7e2b391cd136c51b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_d4e9fca81c9be6c0e5b41548779159028dbfdc6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/exploded-aar/agency.tango.android/material-intro-screen/0.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b821bc341f62ad65334507a90a2b07c9c7cfc53d">
+        <dex dex="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/agency.tango.android-material-intro-screen-0.0.3_a7c0a6c129d7976c0f36106949e7ba152ab50bf1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_4026fca3399e387d1e79b399537b577fa2ef124a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/home/alvaro/alvarogg777/Currency-Converter-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_29eff982a8840f44ebc7a7df28ac5771e3341ed0/classes.dex" />
+    </item>
+
+</items>
