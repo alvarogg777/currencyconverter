@@ -93,10 +93,10 @@
             android:id="@+id/listview"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_above="@+id/adView"
-            android:layout_below="@+id/date_layout">
+            android:layout_below="@+id/date_layout"></ListView>
+            <!--android:layout_above="@+id/adView"-->
+            <!--android:layout_below="@+id/date_layout"-->
 
-        </ListView>
 
         <!--<com.google.android.gms.ads.AdView-->
             <!--android:id="@+id/adView"-->
