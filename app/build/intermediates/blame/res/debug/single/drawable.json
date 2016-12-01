@@ -1,0 +1,986 @@
+[
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/composea.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/composea.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/gbp.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/gbp.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/shp.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/shp.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/mga.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/mga.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/jep.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/jep.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/lak.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/lak.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/right_arrow.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/right_arrow.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/compose.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/compose.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/rsd.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/rsd.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/bam.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/bam.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/bsd.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/bsd.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/pgk.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/pgk.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/oval_bg.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/oval_bg.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/sent.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/sent.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/ang.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/ang.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/aed.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/aed.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/kzt.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/kzt.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/try1.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/try1.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/tzs.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/tzs.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/fcb.jpg",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/fcb.jpg"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/pen.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/pen.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/hrk.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/hrk.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/mkd.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/mkd.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/khr.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/khr.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/inr.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/inr.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/aud.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/aud.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/czk.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/czk.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/xcd.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/xcd.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/syp.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/syp.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/bmd.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/bmd.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/cyp.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/cyp.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/jmd.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/jmd.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/pab.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/pab.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/sll.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/sll.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/npr.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/npr.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/kes.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/kes.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/plus.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/plus.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/intro_tick_mark.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/intro_tick_mark.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/crc.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/crc.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/bnd.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/bnd.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/thb.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/thb.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/spam.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/spam.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/lyd.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/lyd.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/imp.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/imp.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/sdg.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/sdg.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/ern.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/ern.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/nad.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/nad.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/vnd.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/vnd.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/mxn.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/mxn.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/jpy.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/jpy.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/omr.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/omr.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/zmk.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/zmk.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/ltl.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/ltl.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/inbox.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/inbox.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/bbd.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/bbd.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/edit_txt_bg.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/edit_txt_bg.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/hnl.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/hnl.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/kwd.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/kwd.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/bhd.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/bhd.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/lrd.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/lrd.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/clf.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/clf.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/egp.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/egp.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/transfer.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/transfer.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/idr.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/idr.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/irr.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/irr.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/gip.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/gip.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/table.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/table.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/got.jpg",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/got.jpg"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/drop.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/drop.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/ars.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/ars.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/design_ic_visibility.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/drawable/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/btn.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/btn.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/etb.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/etb.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/gel.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/gel.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/huf.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/huf.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/cop.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/cop.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/mad.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/mad.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/twd.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/twd.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/fixtures.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/fixtures.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/lsl.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/lsl.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/clp.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/clp.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/isk.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/isk.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/azn.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/azn.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/nzd.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/nzd.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/mop.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/mop.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/left_arrow.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/left_arrow.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/draft.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/draft.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/mmk.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/mmk.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/ttd.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/ttd.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/fkp.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/fkp.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/cad.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/cad.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/tryk.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/tryk.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/mro.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/mro.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/bin.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/bin.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/yer.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/yer.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/intro_first_screeen.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/intro_first_screeen.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/myr.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/myr.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/tmt.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/tmt.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/pkr.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/pkr.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/isl.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/isl.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/kgs.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/kgs.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/btc.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/btc.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/ggp.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/ggp.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/zar.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/zar.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/chf.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/chf.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/intro_second_screen.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/intro_second_screen.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/byr.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/byr.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/bgn.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/bgn.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/cve.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/cve.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/php.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/php.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/nok.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/nok.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/ugx.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/ugx.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/tvd.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/tvd.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/veb.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/veb.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/vuv.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/vuv.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/brl.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/brl.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/kyd.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/kyd.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/htg.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/htg.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/fjd.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/fjd.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/gnf.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/gnf.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/gyd.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/gyd.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/rub.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/rub.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/aoa.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/aoa.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/sbd.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/sbd.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/gallery.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/gallery.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/mdl.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/mdl.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/settings.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/settings.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/gtq.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/gtq.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/vef.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/vef.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/hkd.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/hkd.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/rwf.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/rwf.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/mwk.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/mwk.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/kpw.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/kpw.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/kmf.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/kmf.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/senta.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/senta.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/szl.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/szl.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/intro_usd_source.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/intro_usd_source.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/ngn.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/ngn.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/zmw.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/zmw.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/mvr.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/mvr.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/uzs.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/uzs.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/zwl.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/zwl.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/jod.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/jod.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/xaf.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/xaf.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/usd.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/usd.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/pyg.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/pyg.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/xau.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/xau.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/amd.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/amd.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/mur.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/mur.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/slector.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/slector.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/cny.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/cny.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/nio.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/nio.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/wst.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/wst.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/bwp.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/bwp.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/calculator_icon.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/calculator_icon.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/tjs.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/tjs.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/eek.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/eek.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/lvl.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/lvl.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/afn.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/afn.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/pln.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/pln.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/qar.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/qar.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/dkk.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/dkk.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/mzn.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/mzn.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/bif.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/bif.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/bzd.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/bzd.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/eur.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/eur.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/dzd.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/dzd.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/xof.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/xof.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/help.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/help.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/srd.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/srd.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/cdf.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/cdf.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/sar.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/sar.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/ils.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/ils.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/awg.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/awg.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/xag.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/xag.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/cup.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/cup.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/sos.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/sos.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/std.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/std.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/djf.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/djf.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/iqd.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/iqd.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/sgd.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/sgd.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/ron.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/ron.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/tnd.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/tnd.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/xpf.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/xpf.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/mnt.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/mnt.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/bob.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/bob.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/ghs.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/ghs.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/sek.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/sek.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/dop.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/dop.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/xdr.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/xdr.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/cuc.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/cuc.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/bdt.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/bdt.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/uyu.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/uyu.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/svc.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/svc.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/connect.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/connect.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/scr.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/scr.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/lbp.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/lbp.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/squad.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/squad.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/all.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/all.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/uah.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/uah.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/arrow.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/arrow.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/lkr.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/lkr.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/gmd.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/gmd.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/krw.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/krw.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/top.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/top.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable/ss.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/drawable/ss.png"
+    }
+]

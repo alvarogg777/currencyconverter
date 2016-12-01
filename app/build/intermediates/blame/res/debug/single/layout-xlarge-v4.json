@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/layout-xlarge-v4/activity_main.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/layout-xlarge/activity_main.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/layout-xlarge-v4/tab_layout.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/layout-xlarge/tab_layout.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/layout-xlarge-v4/row_custom.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/layout-xlarge/row_custom.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/layout-xlarge-v4/fragment_currency_converter.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/layout-xlarge/fragment_currency_converter.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/layout-xlarge-v4/ibmlayout.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/layout-xlarge/ibmlayout.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/layout-xlarge-v4/activity_conversion_listview.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/layout-xlarge/activity_conversion_listview.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/layout-xlarge-v4/sent_layout.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/layout-xlarge/sent_layout.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/layout-xlarge-v4/fragment_marketrates.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/layout-xlarge/fragment_marketrates.xml"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/layout-xlarge-v4/row_curency_converter.xml",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/src/main/res/layout-xlarge/row_curency_converter.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_next.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/agency.tango.android/material-intro-screen/0.0.3/res/drawable-ldpi-v4/ic_next.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_previous.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/agency.tango.android/material-intro-screen/0.0.3/res/drawable-ldpi-v4/ic_previous.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_skip.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/agency.tango.android/material-intro-screen/0.0.3/res/drawable-ldpi-v4/ic_skip.png"
+    },
+    {
+        "merged": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_finish.png",
+        "source": "/home/alvaro/alvarogg777/currencyconverter/app/build/intermediates/exploded-aar/agency.tango.android/material-intro-screen/0.0.3/res/drawable-ldpi-v4/ic_finish.png"
+    }
+]
