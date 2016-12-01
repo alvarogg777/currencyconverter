@@ -7,17 +7,170 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4cb0fce7-9e1a-4e80-bc6a-7641d2048605" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Prefs_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/adapters_1_2_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_25_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_25_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/baseLibrary_2_2_0_rc2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/design_25_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/espresso_core_2_2_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/espresso_idling_resource_2_2_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/exposed_instrumentation_api_publish_0_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/hamcrest_integration_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/hamcrest_library_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/javawriter_2_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/javax_annotation_api_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/javax_inject_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/jsr305_2_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/library_1_2_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/material_intro_screen_0_0_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/mockito_core_1_10_19.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/multidex_1_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/objenesis_2_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/org_apache_http_legacy_android_25.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_25_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/rules_0_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/runner_0_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_annotations_25_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_compat_25_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_core_ui_25_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_core_utils_25_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_fragment_25_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_media_compat_25_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_25_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_25_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/transition_25_0_1.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/NRMJNWSb5c_cubk1VoimCWK+UlU=" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/NRMJNWSb5c_cubk1VoimCWK+UlU=" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/jacoco/jacocoagent.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/jacoco/jacocoagent.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1/main_4a19c0cf2dfd2a17c0b228660481c75b51b48889/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1/main_4a19c0cf2dfd2a17c0b228660481c75b51b48889/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/jacocoagent_a543ebb261a2917c458edfabd29649d146899935/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/jacocoagent_a543ebb261a2917c458edfabd29649d146899935/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/Adapter/Adapter_conversion_listview$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/Adapter/Adapter_conversion_listview$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/Adapter/Adapter_conversion_listview$View_Holder.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/Adapter/Adapter_conversion_listview$View_Holder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/Adapter/Adapter_conversion_listview.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/Adapter/Adapter_conversion_listview.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/Adapter/Adapter_listview$View_Holder.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/Adapter/Adapter_listview$View_Holder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/Adapter/Adapter_listview.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/Adapter/Adapter_listview.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/Data/Currency_Names.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/Data/Currency_Names.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/Data/Currency_Rates.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/Data/Currency_Rates.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/Data/Currency_id_name.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/Data/Currency_id_name.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/Data/Global_Data.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/Data/Global_Data.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/HttpService/ServiceHandler.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/HttpService/ServiceHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/agency/tango/materialintroscreen/R$anim.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/agency/tango/materialintroscreen/R$anim.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/agency/tango/materialintroscreen/R$attr.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/agency/tango/materialintroscreen/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/agency/tango/materialintroscreen/R$bool.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/agency/tango/materialintroscreen/R$bool.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/agency/tango/materialintroscreen/R$color.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/agency/tango/materialintroscreen/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/agency/tango/materialintroscreen/R$dimen.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/agency/tango/materialintroscreen/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/agency/tango/materialintroscreen/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/agency/tango/materialintroscreen/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/agency/tango/materialintroscreen/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/agency/tango/materialintroscreen/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/agency/tango/materialintroscreen/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/agency/tango/materialintroscreen/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/agency/tango/materialintroscreen/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/agency/tango/materialintroscreen/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/agency/tango/materialintroscreen/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/agency/tango/materialintroscreen/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/agency/tango/materialintroscreen/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/agency/tango/materialintroscreen/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/agency/tango/materialintroscreen/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/agency/tango/materialintroscreen/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/agency/tango/materialintroscreen/R.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/agency/tango/materialintroscreen/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/design/R$anim.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/design/R$anim.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/design/R$attr.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/design/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/design/R$bool.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/design/R$bool.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/design/R$color.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/design/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/design/R$dimen.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/design/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/design/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/design/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/design/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/design/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/design/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/design/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/design/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/design/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/design/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/design/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/design/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/design/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/design/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/design/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/design/R.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/design/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/transition/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/transition/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/transition/R.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/transition/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/v7/appcompat/R$anim.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/v7/appcompat/R$anim.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/v7/appcompat/R$attr.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/v7/appcompat/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/v7/appcompat/R$bool.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/v7/appcompat/R$bool.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/v7/appcompat/R$color.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/v7/appcompat/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/v7/appcompat/R$dimen.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/v7/appcompat/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/v7/appcompat/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/v7/appcompat/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/v7/appcompat/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/v7/appcompat/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/v7/appcompat/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/v7/appcompat/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/v7/appcompat/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/v7/appcompat/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/v7/appcompat/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/v7/appcompat/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/v7/appcompat/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/v7/appcompat/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/v7/appcompat/R.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/v7/appcompat/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/v7/recyclerview/R$attr.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/v7/recyclerview/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/v7/recyclerview/R$dimen.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/v7/recyclerview/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/v7/recyclerview/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/v7/recyclerview/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/v7/recyclerview/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/v7/recyclerview/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/v7/recyclerview/R.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/android/support/v7/recyclerview/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/android/databinding/library/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/android/databinding/library/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/android/databinding/library/R.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/android/databinding/library/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/android/databinding/library/baseAdapters/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/android/databinding/library/baseAdapters/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/android/databinding/library/baseAdapters/R.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/android/databinding/library/baseAdapters/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/Activity_Introactivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/Activity_Introactivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/Activity_Introactivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/Activity_Introactivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/Activity_conversion_listview$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/Activity_conversion_listview$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/Activity_conversion_listview$GetExchangeRates.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/Activity_conversion_listview$GetExchangeRates.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/Activity_conversion_listview.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/Activity_conversion_listview.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/BuildConfig.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/BuildConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/Fragment_CurrencyConverter$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/Fragment_CurrencyConverter$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/Fragment_CurrencyConverter$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/Fragment_CurrencyConverter$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/Fragment_CurrencyConverter$3$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/Fragment_CurrencyConverter$3$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/Fragment_CurrencyConverter$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/Fragment_CurrencyConverter$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/Fragment_CurrencyConverter$GetExchangeRates1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/Fragment_CurrencyConverter$GetExchangeRates1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/Fragment_CurrencyConverter.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/Fragment_CurrencyConverter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/Fragment_MarketRates$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/Fragment_MarketRates$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/Fragment_MarketRates$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/Fragment_MarketRates$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/Fragment_MarketRates$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/Fragment_MarketRates$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/Fragment_MarketRates$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/Fragment_MarketRates$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/Fragment_MarketRates$GetExchangeRates.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/Fragment_MarketRates$GetExchangeRates.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/Fragment_MarketRates.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/Fragment_MarketRates.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/MainActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/MainActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/R$anim.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/R$anim.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/R$attr.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/R$bool.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/R$bool.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/R$color.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/R$dimen.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/R$menu.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/R$menu.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/R$mipmap.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/R$mipmap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/R.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/TabFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/TabFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/TabFragment$MyAdapter.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/TabFragment$MyAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/TabFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/com/appisode/currencyconverter/TabFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/es/dmoral/prefs/R$anim.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/es/dmoral/prefs/R$anim.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/es/dmoral/prefs/R$attr.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/es/dmoral/prefs/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/es/dmoral/prefs/R$bool.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/es/dmoral/prefs/R$bool.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/es/dmoral/prefs/R$color.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/es/dmoral/prefs/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/es/dmoral/prefs/R$dimen.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/es/dmoral/prefs/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/es/dmoral/prefs/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/es/dmoral/prefs/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/es/dmoral/prefs/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/es/dmoral/prefs/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/es/dmoral/prefs/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/es/dmoral/prefs/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/es/dmoral/prefs/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/es/dmoral/prefs/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/es/dmoral/prefs/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/es/dmoral/prefs/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/es/dmoral/prefs/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/es/dmoral/prefs/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/es/dmoral/prefs/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/es/dmoral/prefs/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/es/dmoral/prefs/R.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jacoco/debug/folders/1/1/main/es/dmoral/prefs/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
     </list>
     <ignored path="currencyconverter.iws" />
@@ -55,70 +208,28 @@
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="402">
+              <caret line="71" column="22" selection-start-line="71" selection-start-column="22" selection-end-line="71" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Activity_Introactivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/appisode/currencyconverter/Activity_Introactivity.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BuildConfig.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/build/generated/source/buildConfig/androidTest/debug/com/appisode/currencyconverter/test/BuildConfig.java">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fragment_marketrates.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_marketrates.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1425">
-              <caret line="95" column="63" selection-start-line="95" selection-start-column="63" selection-end-line="95" selection-end-column="63" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fragment_marketrates.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-xlarge/fragment_marketrates.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1425">
-              <caret line="95" column="63" selection-start-line="95" selection-start-column="63" selection-end-line="95" selection-end-column="63" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fragment_marketrates.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-sw600dp/fragment_marketrates.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1410">
-              <caret line="94" column="63" selection-start-line="94" selection-start-column="63" selection-end-line="94" selection-end-column="63" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fragment_marketrates.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-large/fragment_marketrates.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1365">
-              <caret line="91" column="0" selection-start-line="91" selection-start-column="0" selection-end-line="95" selection-end-column="63" />
+            <state relative-caret-position="285">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -1654,7 +1765,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4441417791695" />
+        <entry key="$PROJECT_DIR$" value="4441606012642" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1670,6 +1781,8 @@
                         <option name="entries">
                           <list>
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle/2.2.2/gradle-2.2.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jacoco/org.jacoco.core/0.7.7.201606060606/90e970111713534ad859ed3d9f113781de24ab65/org.jacoco.core-0.7.7.201606060606-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jacoco/org.jacoco.core/0.7.7.201606060606/8f710cfa63b5d0827c4f9db5ea422a9913c0e15e/org.jacoco.core-0.7.7.201606060606.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-core/2.2.2/gradle-core-2.2.2.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder/2.2.2/builder-2.2.2.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint/25.2.2/lint-25.2.2.jar" />
@@ -1680,7 +1793,6 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-commons/5.0.4/asm-commons-5.0.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-gradle/5.2.1/proguard-gradle-5.2.1-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-gradle/5.2.1/proguard-gradle-5.2.1.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/jacoco/org.jacoco.core/0.7.5.201505241946/org.jacoco.core-0.7.5.201505241946.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/jacoco/org.jacoco.report/0.7.5.201505241946/org.jacoco.report-0.7.5.201505241946.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/jopt-simple/jopt-simple/4.9/jopt-simple-4.9.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/protobuf/protobuf-java/2.5.0/protobuf-java-2.5.0.jar" />
@@ -1714,8 +1826,8 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/annotations/25.2.2/annotations-25.2.2.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-base/5.2.1/proguard-base-5.2.1-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-base/5.2.1/proguard-base-5.2.1.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-debug-all/5.0.1/asm-debug-all-5.0.1-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-debug-all/5.0.1/asm-debug-all-5.0.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-debug-all/5.1/81e81bd6c20b965f88d0462e2559f8759fc6c26d/asm-debug-all-5.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-debug-all/5.1/dde860d586960d55a87cd52c4fc1f5059c89cbc6/asm-debug-all-5.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/layoutlib/layoutlib-api/25.2.2/layoutlib-api-25.2.2.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/dvlib/25.2.2/dvlib-25.2.2.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/repository/25.2.2/repository-25.2.2.jar" />
@@ -1755,6 +1867,8 @@
                         <option name="entries">
                           <list>
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle/2.2.2/gradle-2.2.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jacoco/org.jacoco.core/0.7.7.201606060606/90e970111713534ad859ed3d9f113781de24ab65/org.jacoco.core-0.7.7.201606060606-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jacoco/org.jacoco.core/0.7.7.201606060606/8f710cfa63b5d0827c4f9db5ea422a9913c0e15e/org.jacoco.core-0.7.7.201606060606.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-core/2.2.2/gradle-core-2.2.2.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder/2.2.2/builder-2.2.2.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint/25.2.2/lint-25.2.2.jar" />
@@ -1765,7 +1879,6 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-commons/5.0.4/asm-commons-5.0.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-gradle/5.2.1/proguard-gradle-5.2.1-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-gradle/5.2.1/proguard-gradle-5.2.1.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/jacoco/org.jacoco.core/0.7.5.201505241946/org.jacoco.core-0.7.5.201505241946.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/jacoco/org.jacoco.report/0.7.5.201505241946/org.jacoco.report-0.7.5.201505241946.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/jopt-simple/jopt-simple/4.9/jopt-simple-4.9.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/protobuf/protobuf-java/2.5.0/protobuf-java-2.5.0.jar" />
@@ -1799,8 +1912,8 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/annotations/25.2.2/annotations-25.2.2.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-base/5.2.1/proguard-base-5.2.1-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-base/5.2.1/proguard-base-5.2.1.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-debug-all/5.0.1/asm-debug-all-5.0.1-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-debug-all/5.0.1/asm-debug-all-5.0.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-debug-all/5.1/81e81bd6c20b965f88d0462e2559f8759fc6c26d/asm-debug-all-5.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-debug-all/5.1/dde860d586960d55a87cd52c4fc1f5059c89cbc6/asm-debug-all-5.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/layoutlib/layoutlib-api/25.2.2/layoutlib-api-25.2.2.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/dvlib/25.2.2/dvlib-25.2.2.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/repository/25.2.2/repository-25.2.2.jar" />
@@ -1986,6 +2099,8 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_marketrates.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout-xlarge/fragment_marketrates.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout-sw600dp/fragment_marketrates.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/appisode/currencyconverter/Activity_Introactivity.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
       </list>
     </option>
@@ -2005,7 +2120,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Tests" proportions="" version="1">
+    <navigator currentView="AndroidView" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -2022,7 +2137,24 @@
       <pane id="PackagesPane" />
       <pane id="ProjectPane" />
       <pane id="AndroidView">
-        <subPane />
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="currencyconverter" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gradle Scripts" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="currencyconverter" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
       </pane>
       <pane id="Scratches" />
       <pane id="Scope">
@@ -2450,11 +2582,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1922" height="1050" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32855567" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3278328" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973376" sideWeight="0.5038504" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2469,7 +2601,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973376" sideWeight="0.49614963" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973376" sideWeight="0.49614963" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -2502,14 +2634,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_marketrates.xml">
       <provider editor-type-id="android-designer2">
         <state />
@@ -2558,6 +2682,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="71" column="22" selection-start-line="71" selection-start-column="22" selection-end-line="71" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/appisode/currencyconverter/Activity_Introactivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
